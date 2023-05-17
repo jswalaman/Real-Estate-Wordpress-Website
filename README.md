@@ -1,3 +1,3 @@
 This project is currently under production, I will publish it as soon as possible...
 
-The website is live at: https://dev-drapearc.pantheonsite.io/
+The website is live at - https://dev-drapearc.pantheonsite.io/
